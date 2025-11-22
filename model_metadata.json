@@ -1,0 +1,8 @@
+{
+  "saved_at": "2025-11-22T16:05:52.001459Z",
+  "model_variable": "rf",
+  "model_type": "RandomForestClassifier",
+  "n_features": 83,
+  "feature_source": "explicit_feature_list",
+  "question_image": null
+}
